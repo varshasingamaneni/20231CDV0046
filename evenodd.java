@@ -13,6 +13,10 @@ public class EvenOdd {
             System.out.println("NEGATIVE");
         }
     
+            System.out.println("The number DOES NOT EXISTS");
+        }
+      
+
         sc.close();
     }
 }
