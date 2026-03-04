@@ -12,7 +12,7 @@ public class EvenOdd {
         } else {
             System.out.println("The number is Odd");
         }
-      System.out.println("complete")
+      System.out.println("success")
 
         sc.close();
     }
