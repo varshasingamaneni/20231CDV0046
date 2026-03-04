@@ -10,9 +10,9 @@ public class EvenOdd {
         if (num % 2 == 0) {
             System.out.println("The number is Even");
         } else {
-            System.out.println("The number is Odd");
+            System.out.println("The number DOES NOT EXISTS");
         }
-      System.out.println("success")
+      
 
         sc.close();
     }
